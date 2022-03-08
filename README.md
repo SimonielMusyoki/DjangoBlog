@@ -1,1 +1,1 @@
-### Django Blog Project
+### Django 4 Blog Project
